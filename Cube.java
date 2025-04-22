@@ -1,5 +1,5 @@
 public class Cube {
-    public static double cube(double a) {
+    public static double cube(double a) { 
         return a * a * a;
     }
 }
