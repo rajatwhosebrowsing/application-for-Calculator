@@ -1,6 +1,6 @@
 // Name: Rajat Dwivedi
 // PRN: 23070126100
-// Batch: B1
+// Batch: B1 
 
 import java.util.Scanner;
 
