@@ -5,7 +5,7 @@ public class CalculatorExceptions {
         public DivisionByZeroException() {
             super("Cannot divide by zero.");
         }
-    }
+    } 
 
     // Negative square root
     public static class NegativeSqrtException extends ArithmeticException {
