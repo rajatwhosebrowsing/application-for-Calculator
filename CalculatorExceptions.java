@@ -3,7 +3,7 @@ public class CalculatorExceptions {
     // Division by zero
     public static class DivisionByZeroException extends ArithmeticException {
         public DivisionByZeroException() {
-            super("Cannot divide by zero.");
+            super("Cannot divide by zero."); 
         }
     } 
 
